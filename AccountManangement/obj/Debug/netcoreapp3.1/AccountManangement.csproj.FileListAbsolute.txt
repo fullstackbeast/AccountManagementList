@@ -1,0 +1,13 @@
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.exe
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.deps.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.runtimeconfig.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.runtimeconfig.dev.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\netcoreapp3.1\AccountManangement.pdb
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.csprojAssemblyReference.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.AssemblyInfoInputs.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.AssemblyInfo.cs
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.csproj.CoreCompileInputs.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.pdb
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\netcoreapp3.1\AccountManangement.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.csprojAssemblyReference.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.AssemblyInfoInputs.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.AssemblyInfo.cs
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.csproj.CoreCompileInputs.cache
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.exe
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.deps.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.runtimeconfig.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.runtimeconfig.dev.json
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\ref\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.pdb
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\ref\AccountManangement.dll
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.pdb
+C:\Users\Laptop City\source\repos\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.genruntimeconfig.cache
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.exe
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.deps.json
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.runtimeconfig.json
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.runtimeconfig.dev.json
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.dll
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\ref\AccountManangement.dll
+C:\Codelearnershub\AccountManangement\AccountManangement\bin\Debug\net5.0\AccountManangement.pdb
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.csprojAssemblyReference.cache
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.AssemblyInfoInputs.cache
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.AssemblyInfo.cs
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.dll
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\ref\AccountManangement.dll
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.pdb
+C:\Codelearnershub\AccountManangement\AccountManangement\obj\Debug\net5.0\AccountManangement.genruntimeconfig.cache
